@@ -1,4 +1,6 @@
-Requirements.txt
-requirement.txt
-requirements.txt.txt
-requirements
+/proiect
+│
+├── app.py
+├── requirements.txt
+├── tid_list.json
+├── comisioane.json
