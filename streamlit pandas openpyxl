@@ -1,6 +1,3 @@
-/proiect
-│
-├── app.py
-├── requirements.txt
-├── tid_list.json
-├── comisioane.json
+streamlit==1.32.0
+pandas==2.2.1
+openpyxl==3.1.2
